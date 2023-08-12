@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "untitled",
+					"name" : "C_Project",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-ecf961d30c5057e94691.json",
-					"name" : "untitled",
+					"id" : "C_Project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_Project-Debug-aabb1fa035f94d6bf891.json",
+					"name" : "C_Project",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/Amit/untitled/cmake-build-debug",
-		"source" : "F:/Amit/untitled"
+		"build" : "F:/Amit/C_Project/cmake-build-debug",
+		"source" : "F:/Amit/C_Project"
 	},
 	"version" : 
 	{

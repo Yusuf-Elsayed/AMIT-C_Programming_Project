@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "f:/Amit/untitled/cmake-build-debug"
+			"value" : "f:/Amit/C_Project/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/Amit/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "F:/Amit/C_Project/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/Amit/untitled"
+			"value" : "F:/Amit/C_Project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled"
+			"value" : "C:/Program Files (x86)/C_Project"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled"
+			"value" : "C_Project"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1110,19 +1110,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "FALSE"
-		},
-		{
-			"name" : "untitled_BINARY_DIR",
+			"name" : "C_Project_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1131,10 +1119,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/Amit/untitled/cmake-build-debug"
+			"value" : "F:/Amit/C_Project/cmake-build-debug"
 		},
 		{
-			"name" : "untitled_IS_TOP_LEVEL",
+			"name" : "C_Project_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1146,7 +1134,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled_SOURCE_DIR",
+			"name" : "C_Project_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1155,7 +1143,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/Amit/untitled"
+			"value" : "F:/Amit/C_Project"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "FALSE"
 		}
 	],
 	"kind" : "cache",

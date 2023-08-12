@@ -1,3 +1,3 @@
-F:/Amit/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-F:/Amit/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Amit/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Amit/C_Project/cmake-build-debug/CMakeFiles/C_Project.dir
+F:/Amit/C_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Amit/C_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
